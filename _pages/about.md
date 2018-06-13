@@ -14,5 +14,7 @@ My PhD dissertation, which I aim to complete in late 2018 or early 2019, is in t
 
 I bring several key principles to my work:
   - A focus on open source software, particularly Python.
-  - Strict adherence to what I like to call "Step 0" reproducible research.  As an expert in web scraping, where ever possible all of my projects in both my PhD studies and my work at Urban begin with the programmatic retrieval of raw data from the web, and end with producing the final results.  Anything less greatly hinders troubshooting, and introduces human error into the all-important step of reproducing research results.
+  - Strict adherence to what I like to call "Step 0" reproducible research.  As an expert in web scraping, wherever possible all of my projects in both my PhD studies and my work at Urban begin with the programmatic retrieval of raw data from the web, and end with producing the final results.  Anything less greatly hinders troubleshooting, and introduces human error into the all-important step of reproducing research results.
   - An emphasis on finding and using unique or hard-to-access data sources that allows for the study of straight-forward questions.
+
+In my graduate and undergraduate economics studies, and in speaking with many colleagues who have gone through similar programs, I have observed a consistent trend: a heavy focus on econometrics and theoretical models, with little-to-no focus on data.  This imbalance is, I believe, a mistake, and directly at odds with performing actual research, where a large majority of a researcher's time is spent on data.  If I were to pick one single, over-arching goal of my work, it would be to help address this discrepancy with students and researchers.
