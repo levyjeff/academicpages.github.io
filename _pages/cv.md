@@ -10,9 +10,10 @@ redirect_from:
 {% include base_path %}
 
 My one-page resume: [PDF]()
+
 My academic CV: [PDF]()
 
-#Experience in Brief:
+# Experience in Brief:
 
 Education
 ======
