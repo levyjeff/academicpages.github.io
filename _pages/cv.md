@@ -13,9 +13,6 @@ My one-page resume: [PDF]()
 
 My academic CV: [PDF]()
 
-## Experience in Brief:
---------------------
-
 Education
 ======
 * Ph.D in Economics, American University, 2018/2019 (expected)
