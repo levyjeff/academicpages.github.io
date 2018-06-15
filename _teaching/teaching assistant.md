@@ -10,7 +10,8 @@ location: "Washington, D.C."
 
 Worked as a teaching assistant for eight consecutive semesters, all for undergraduate courses, ending May 2016.  Duties varied widely, but generally included teaching smaller sections of larger lectures, grading, and office hours.
 
-
+|----------------------------------------------------|
+| Year | Course | Name |
 |----------------------------------------------------|
 | 2016 | ECON 672 | International Economics: Finance | 
 |      | ECON 450 | Growing Artificial Societies |
