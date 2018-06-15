@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeffrey A. Levy"
 title_separator          : "-"
 name                     : &name "Jeffrey A. Levy"
-description              : &description "Data scientist and PhD candidate in Economics"
+description              : &description "PhD candidate in Economics at [American University](https://www.american.edu/cas/economics/) and Data scientist at the [Urban Institute](https://www.urban.org/author/jeffrey-levy)
 url                      : https://levyjeff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "levyjeff.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Jeff Levy"
   avatar           : "bio_photo.jpg"
-  bio              : "Data scientist and PhD candidate in Economics"
+  bio              : "PhD candidate in Economics at [American University](https://www.american.edu/cas/economics/) and Data scientist at the [Urban Institute](https://www.urban.org/author/jeffrey-levy)"
   location         : "Washington, DC"
-  employer         : "Urban Institute"
+  employer         : "Prague, CZ"
   googlescholar    :
   email            : "jeff.levy@american.edu"
   uri              :
