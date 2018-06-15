@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate and Graduate courses"
+type: "Undergraduate and Graduate"
 permalink: /teaching/teaching assistant
 venue: "American University, Economics"
 date: 2012-9-1
