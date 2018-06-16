@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-| Downloads |   |
-| :--- | :------ |
-| My one-page resume | [PDF](http://levyjeff.github.io/files/Levy_CV.pdf) |
-| My academic CV | [PDF]() |
+ Downloads          | 
+ -----------------: | :--- 
+ My one-page resume | [PDF](http://levyjeff.github.io/files/Levy_CV.pdf) 
+ My academic CV     | [PDF]() 
 
 Education
 ======
