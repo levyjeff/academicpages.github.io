@@ -11,8 +11,8 @@ redirect_from:
 
 | Downloads |
 |---------------|
-| My one-page resume: | [PDF](http://levyjeff.github.io/files/Levy_CV.pdf) |
-| My academic CV: | [PDF]() |
+| My one-page resume | [PDF](http://levyjeff.github.io/files/Levy_CV.pdf) |
+| My academic CV | [PDF]() |
 
 Education
 ======
