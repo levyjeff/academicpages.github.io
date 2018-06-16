@@ -103,9 +103,10 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_talks/" + md_filename, 'w') as f:
+    with open(os.path.join(os.getcwd(), "_talks/" + md_filename), 'w') as f:
         f.write(md)
 
 
+print('Finished, copy from markdown_generator/_talks into _talks')
 # These files are in the talks directory, one directory below where we're working from.
 
