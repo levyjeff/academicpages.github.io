@@ -2,7 +2,7 @@
 title: "Spark for Social Science"
 collection: talks
 type: "Public webinar"
-permalink: /presentations/10/25/2017-sfss2_web
+permalink: /talks/10/17/2017-sfss1_web
 venue: "Urban Institute"
 ---
 

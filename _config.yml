@@ -178,7 +178,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  presentations:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _presentations
+  # _talks
   - scope:
       path: ""
-      type: presentations
+      type: talks
     values:
       layout: talk
       author_profile: true
