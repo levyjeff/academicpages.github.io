@@ -8,6 +8,4 @@ date: 2017/10/25
 location: "Web"
 ---
 
-[More information here](https://github.com/UrbanInstitute/sloan-spark-presentation)
-
-Discussion of using the Apache Spark distributed computing system on big data for social science researchers.
+Tutorial and discussion on using the Apache Spark distributed computing system with big data for social science researchers. [More information here](https://github.com/UrbanInstitute/sloan-spark-presentation).
