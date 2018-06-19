@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* *Jun 2016 - current*: **Data Scientist & Research Programmer** at the Urban Institute
+* *Jun 2016 - current*: **Data Scientist** at the Urban Institute
   * Duties include: Research, Python, web scraping, data visualization, big data with Apache Spark, R/SAS/Stata
   * Supervisor: Jessica Kelly
 
@@ -36,7 +36,7 @@ Work experience
   * Used Python working with an economics professor to clean and parse a large, error-filled dataset from the 1980s
   * Used Python to automate the collection of thousands of records from a difficult interactive search form for an economics professor
   
-* Fall 2013: **Research Assistant** at the Brookings Institution
+* *Fall 2013*: **Research Assistant** at the Brookings Institution
   * Used Python and Stata to work with data on foreign direct investment in the Metopolitan Policy Program
   
 Skills
