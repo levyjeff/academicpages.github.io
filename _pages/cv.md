@@ -21,21 +21,23 @@ Education
 
 Work experience
 ======
-* Jun 2016 - current: Data Scientist & Research Programmer at the Urban Institute
-  * Duties include: Research, Python, web scraping, big data with Apache Spark, R/SAS/Stata
+* *Jun 2016 - current*: **Data Scientist & Research Programmer** at the Urban Institute
+  * Duties include: Research, Python, web scraping, data visualization, big data with Apache Spark, R/SAS/Stata
   * Supervisor: Jessica Kelly
 
-* Fall 2016: Adjunct Faculty at American University
+* *Fall 2016*: **Adjunct Faculty** at American University
   * Taught own section of principles of microeconomics to 35 undergraduates
   
-* Sep 2012 - May 2016: Graduate Assistant at American University
+* *Sep 2012 - May 2016*: **Graduate Assistant** at American University
   * Teaching assistant for undergraduate courses in micro and macro economics, agent based modeling, trade and finance
   
-* Fall 2013: Research Assistant at the Brookings Institution
-  * Used Python and Stata to work with data on foreign direct investment in the Metopolitan Policy Program
+* *Summer 2013, 2014, 2016*: **Research Assistant** at American University
+  * Wrote Stata code and batch files in order process big data on a high performance computer (HPC) running LSF for an economic professor's research
+  * Used Python working with an economics professor to clean and parse a large, error-filled dataset from the 1980s
+  * Used Python to automate the collection of thousands of records from a difficult interactive search form for an economics professor
   
-* Summer 2013, 2014: Research Assistant at American University
-  * Used Python working with an economics professor in web scraping, and to clean and parse a large, error-filled dataset from the 1980s
+* Fall 2013: **Research Assistant** at the Brookings Institution
+  * Used Python and Stata to work with data on foreign direct investment in the Metopolitan Policy Program
   
 Skills
 ======
