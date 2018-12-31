@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Update:* **After nearly three great years at the Urban Institute, I am moving on.  Starting April 1st, 2019, I will be moving to Chicago to lecture at the University of Chicago Harris School of Public Policy.  I am very excited for this new opportunity!  More updates to follow as the date approaches.**
+**Update: _After nearly three great years at the Urban Institute, I am moving on.  Starting April 1st, 2019, I will be moving to Chicago to lecture at the University of Chicago Harris School of Public Policy.  I am very excited for this new opportunity!  More updates to follow as the date approaches._**
 
 Welcome, and thanks for visiting my site!  I am a PhD candidate in economics who works at the intersection data science and social science.  I get my hands into a wide variety of projects in my current role as a Data Scientist at the Urban Institute, where I am part of a small team that partners with researchers whose work faces advanced technical hurdles.  My joint understanding of research methods, econometrics and programming allows me to contribute in meaningful ways to nearly any research.
 
