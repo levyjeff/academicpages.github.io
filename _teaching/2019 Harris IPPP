@@ -1,0 +1,11 @@
+---
+title: "Introduction to Programming for Public Policy"
+collection: teaching
+type: "Graduates course"
+permalink: /teaching/2019 Harris IPPP
+venue: "University of Chicago"
+date: 2019-04-01
+location: "Chicago, IL"
+---
+
+This course introduces students from the Master's in Public Policy program at the University of Chicago to programming and working with data.  We focus on the Python programming language, though other software is referenced frequently, including Github.  This term there are two sections of this class, each with around 60 students.  The course syllabus is available [here](http://levyjeff.github.io/files/IPPP_Spring2019.pdf).
