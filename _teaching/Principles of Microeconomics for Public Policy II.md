@@ -8,7 +8,7 @@ date: 2020-1-1
 location: "Chicago, IL"
 ---
 
-Syllabus is available [here](https://github.com/levyjeff/Micro2-32400-Syllabus)
+Syllabi are available [here](https://github.com/levyjeff/Micro2-32400-Syllabus)
 
 Spring 2019
 

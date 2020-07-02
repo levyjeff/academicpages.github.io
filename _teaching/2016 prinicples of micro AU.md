@@ -8,4 +8,4 @@ date: 2016-9-1
 location: "Washington, D.C."
 ---
 
-Syllabus available [here](http://levyjeff.github.io/files/IntroMicroFall2016.pdf).
+Syllabus is available [here](http://levyjeff.github.io/files/IntroMicroFall2016.pdf).
