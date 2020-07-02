@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/MicroII
 venue: "Harris School of Public Policy, University of Chicago"
-date: 2019-2020
+date: 2020
 location: "Chicago, IL"
 ---
 

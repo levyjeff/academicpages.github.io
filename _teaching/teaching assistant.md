@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate and Graduate"
 permalink: /teaching/teaching assistant
 venue: "American University, Economics"
-date: 2012-2016
+date: 2012-09-01
 location: "Washington, D.C."
 ---
 
