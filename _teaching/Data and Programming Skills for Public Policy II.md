@@ -8,10 +8,10 @@ date: 2020-1-1
 location: "Chicago, IL"
 ---
 
+Syllabi are available [here](https://github.com/levyjeff/Data-Skills-2-Syllabus) 
+
 Fall 2019 (Python)
 
 Fall 2020 (Python)
 
 Winter 2020 (R)
-
-Syllabi are available [here](https://github.com/levyjeff/Data-Skills-2-Syllabus) 
