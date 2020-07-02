@@ -9,7 +9,9 @@ location: "Chicago, IL"
 ---
 
 Spring 2019 (Python)
+
 Spring 2020 (Python)
+
 Summer 2020 (Python)
 
 Syllabi are available [here](https://github.com/levyjeff/Data-Skills-1-Syllabus) 
