@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016 principles of micro AU
 venue: "American University, Department of Economics"
-date: 2016
+date: 2016-9-1
 location: "Washington, D.C."
 ---
 
