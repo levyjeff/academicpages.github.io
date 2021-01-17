@@ -15,14 +15,14 @@ My **academic CV**: [PDF](http://levyjeff.github.io/files/Levy_CV_academic.pdf)
 
 Education
 ======
-* Ph.D in Economics, American University, 2019 (expected)
+* Ph.D in Economics, American University, 2021
 * M.S. in Economics, American University, 2014
 * B.A. in Economics & Political Science, Michigan State University, 2010
 
 Work experience
 ======
 * *Apr 2019 - current*: **Lecturer** at the University of Chicago
-  * Designing and teaching courses on economics and programming to students in the Master's of Public Policy program in the Harris School of Public Policy
+  * Designing and teaching courses on economics and research programming in Python and R to students in the Master's of Public Policy program in the Harris School of Public Policy
 
 * *Jun 2016 - Apr 2019*: **Data Scientist** at the Urban Institute
   * Duties include: Research, Python, web scraping, data visualization, big data with Apache Spark, R/SAS/Stata
