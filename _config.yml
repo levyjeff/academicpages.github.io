@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeffrey A. Levy"
 title_separator          : "-"
 name                     : &name "Jeffrey A. Levy"
-description              : &description "Lecturer at the Harris School of Public Policy and PhD candidate in Economics at American University."
+description              : &description "Economist and lecturer at the Harris School of Public Policy."
 url                      : https://jeffreyalevy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "levyjeff.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Jeff Levy"
   avatar           : "bio_photo.jpg"
-  bio              : "Lecturer at the <a style='color: black;' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a> and PhD candidate in Economics at <a style='color: black;' href='https://www.american.edu/cas/economics/'>American University</a>."
+  bio              : "Economist and lecturer at the <a style='color: black;' href='https://harris.uchicago.edu/'>Harris School of Public Policy</a>."
   location         : "Chicago, IL"
   employer         : 
   googlescholar    :
