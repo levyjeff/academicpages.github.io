@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/DPPP_II_Python
 venue: "Harris School of Public Policy, University of Chicago"
-date: 2020-1-1
+date: 2021-1-1
 location: "Chicago, IL"
 ---
 
@@ -14,4 +14,4 @@ Fall 2019 (Python)
 
 Fall 2020 (Python)
 
-Winter 2020 (R)
+Winter 2021 (R)
