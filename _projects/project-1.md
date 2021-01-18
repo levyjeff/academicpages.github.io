@@ -6,13 +6,10 @@ collection: portfolio
 
 ### Committee
 
-Chair: [Dr. Xuguang Sheng](https://www.american.edu/cas/faculty/sheng.cfm), Department of Economics, American University
-
-Member: [Dr. Gabriel Mathy](https://www.american.edu/cas/faculty/mathy.cfm), Department Economics, American University
-
-Member: [Dr. Scott Baker](https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx), Kellogg School of Management, Northwestern University
-
-Reader: [Dr. Svetlana Makarova](https://www.ucl.ac.uk/ssees/people/svetlana-makarova), School of Slavonic and East European Studies, University College London
+Chair: [Dr. Xuguang Sheng](https://www.american.edu/cas/faculty/sheng.cfm), Department of Economics, American University\
+Member: [Dr. Gabriel Mathy](https://www.american.edu/cas/faculty/mathy.cfm), Department Economics, American University\
+Member: [Dr. Scott Baker](https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx), Kellogg School of Management, Northwestern University\
+Reader: [Dr. Svetlana Makarova](https://www.ucl.ac.uk/ssees/people/svetlana-makarova), School of Slavonic and East European Studies, University College London\
 
 
 ### Abstract
