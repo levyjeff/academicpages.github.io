@@ -15,9 +15,9 @@ My **academic CV**: [PDF](http://levyjeff.github.io/files/Levy_CV_academic.pdf)
 
 Education
 ======
-* Ph.D in Economics, American University, January 2021
-* M.S. in Economics, American University, August 2014
-* B.A. in Economics & Political Science, Michigan State University, May 2010
+* Ph.D in Economics, __American University__, _January 2021_
+* M.S. in Economics, __American University__, _August 2014_
+* B.A. in Economics & Political Science, __Michigan State University__, _May 2010_
 
 Work experience
 ======
