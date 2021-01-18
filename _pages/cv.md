@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-My **one-page resume**: [PDF](http://levyjeff.github.io/files/Levy_CV_brief.pdf) 
+<!-- My **one-page resume**: [PDF](http://levyjeff.github.io/files/Levy_CV_brief.pdf) -->
 
-My **academic CV**: [PDF](http://levyjeff.github.io/files/Levy_CV_academic.pdf) 
+<!-- My **academic CV**: [PDF](http://levyjeff.github.io/files/Levy_CV_academic.pdf) -->
 
 Education
 ======
