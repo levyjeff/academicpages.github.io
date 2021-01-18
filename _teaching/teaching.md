@@ -14,7 +14,7 @@ I am passionate about teaching good data and programming skills to researchers. 
     - Winter 2021 (R) [Syllabus](https://github.com/levyjeff/Data-Skills-2-R-Syllabus/blob/master/Data%20Skills%20for%20Public%20Policy%20-%20Winter%202021.pdf)
     - Autumn 2020 (Python) [Syllabus](https://github.com/levyjeff/Data-Skills-2-Syllabus/blob/master/Data%20Skills%20for%20Public%20Policy%20-%20Fall%202020.pdf)
     - Autumn 2019 (Python)
-- PPHA 23400: Principles of Microeonomics and Public Policy II
+- PPHA 23400: Principles of Microeconomics and Public Policy II
     - Spring 2020 [Syllabus](https://github.com/levyjeff/Micro2-32400-Syllabus/blob/master/micro2_spring_2020.pdf)
     - Spring 2019
 
