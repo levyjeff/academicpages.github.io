@@ -36,4 +36,4 @@ I am passionate about teaching good data and programming skills to researchers. 
     - Econ 200 (2012) Microeconomics
     
 ## The Urban Institute
-- Introduction to Python for Data Analysis (2018)
+- Python for Data Science (2018) [Notebooks](https://github.com/UI-Research/Python-For-Data-Science)
