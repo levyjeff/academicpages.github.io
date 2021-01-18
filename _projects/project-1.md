@@ -4,7 +4,7 @@ excerpt: "My Ph.D dissertation at American University.  See the abstract within.
 collection: portfolio
 ---
 
-###Abstract
+### Abstract
 
 In this dissertation I examine economic uncertainty, particularly from the perspective of disaggregation below the national level.  In part one I outline the building of news-based uncertainty measures for all 50 US states plus Washington DC.  I analyze different search specifications, finding that the simplest set of terms involving one group for "economy" and one group for "uncertainty" has the highest resolution, while yielding similar results to more focused news searches, including one similar to the ubiquitous policy search from Baker, Bloom and Davis (2016), and an alternative specification designed to eliminate false positives.  I also explore the differences between two other national uncertainty measures - the VIX stock market volatility index from the Chicago Board Options Exchange, and the unforecastable macroeconomic factors from Jurado, Ludvigson and Ng (2015).
 
