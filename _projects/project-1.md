@@ -4,6 +4,14 @@ excerpt: "My Ph.D dissertation at American University.  See the abstract within.
 collection: portfolio
 ---
 
+### Committee
+
+Chair: [Dr. Xuguang Sheng](https://www.american.edu/cas/faculty/sheng.cfm), Department of Economics, American University
+Member: [Dr. Gabriel Mathy](https://www.american.edu/cas/faculty/mathy.cfm), Department Economics, American University
+Member: [Dr. Scott Baker](https://www.kellogg.northwestern.edu/faculty/directory/baker_scott_r.aspx), Kellogg School of Management, Northwestern University
+Reader: [Dr. Svetlana Makarova](https://www.ucl.ac.uk/ssees/people/svetlana-makarova), School of Slavonic and East European Studies, University College London
+
+
 ### Abstract
 
 In this dissertation I examine economic uncertainty, particularly from the perspective of disaggregation below the national level.  In part one I outline the building of news-based uncertainty measures for all 50 US states plus Washington DC.  I analyze different search specifications, finding that the simplest set of terms involving one group for "economy" and one group for "uncertainty" has the highest resolution, while yielding similar results to more focused news searches, including one similar to the ubiquitous policy search from Baker, Bloom and Davis (2016), and an alternative specification designed to eliminate false positives.  I also explore the differences between two other national uncertainty measures - the VIX stock market volatility index from the Chicago Board Options Exchange, and the unforecastable macroeconomic factors from Jurado, Ludvigson and Ng (2015).
