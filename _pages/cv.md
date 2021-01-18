@@ -44,17 +44,15 @@ Work experience
   
 Skills
 ======
-* Python
-  * Pandas
+* Python and R
+  * Pandas and Tidyverse
   * Web scraping
   * Text and natural language processing
   * Econometrics
+  * Machine learning
   * Agent based modeling
-  * Jupyter Notebooks and nbviewer
 * Apache Spark
-  * Big data methods
-  * Deployment on Amazon Web Services
-* Stata, SAS, R
+* Stata, SAS, SQL
 * LaTeX, GitHub, Mathematica
 
 Talks
